@@ -1,12 +1,12 @@
 # devconnector
 A full stack App using React, Redux, Node.js, Express &amp; MongoDB
 
-Node.js & Express is used to build back-end API. 
+  * Node.js & Express is used to build back-end API. 
 
-The routes are secured using JWT authentication.
+  * The routes are secured using JWT authentication.
 
-Postman is used to test the routes during development.
+  * Postman is used to test the routes during development.
 
-Front-end implemented with React
+  * Front-end implemented with React
 
-Redux is used for state management.
+  * Redux is used for state management.
