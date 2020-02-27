@@ -5,7 +5,7 @@ A full stack App using React, Redux, Node.js, Express &amp; MongoDB
 
   * The routes are secured using JWT authentication.
 
-  * Postman is used to test the routes during development.
+  * Used Postman to test the routes during development.
 
   * Front-end implemented with React
 
